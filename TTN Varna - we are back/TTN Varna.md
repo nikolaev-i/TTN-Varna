@@ -6,6 +6,10 @@ The first out of ten underwent its shakedown today, and we achieved decent resul
 
 ![test](images/mapper.jpg)
 
-We're super eager to deploy the next ones in the coming weeks, so stay tuned !
+We are still scouting for potential locations to deploy the rest of gateways.
 
-VarnaLab team
+
+Super eager to see where this will lead us.
+~VarnaLab team
+
+
